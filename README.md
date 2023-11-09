@@ -8,5 +8,6 @@ sh <(curl --proto '=https' --tlsv1.2 -sSf https://garn.io/install.sh)
 # Quickstart
 ```bash
 garn enter app
+bun install
 bun run dev
 ```
